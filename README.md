@@ -8,7 +8,7 @@ Tip: keep it concise; pin the most representative repos on your profile page too
 # Mingxin Yang (ymx10086)
 
 **CS @ Peking University · Beijing**  
-Network Security · LLM Security · Malicious/Encrypted Traffic · Secure AI
+Network Security · LLM Security · Malicious/Encrypted Traffic · Secure AI · AI Agent
 
 [Homepage](https://ymx10086.github.io/) ·
 [ORCID](https://orcid.org/0009-0004-0700-8299) ·
@@ -31,6 +31,7 @@ Network Security · LLM Security · Malicious/Encrypted Traffic · Secure AI
   - **Secure learning**: federated / split learning settings for LLMs
   - **Network security**: malicious traffic detection, encrypted traffic classification, website fingerprinting
   - **Code security**: LLM-based vulnerability detection & secure coding
+  - **AI Agent**: Production-ready AI agents
 
 <!-- > 我可能回复较慢，但欢迎交流合作 / 讨论想法 🤝 -->
 > I may be slow to respond, but welcome to connect, collaborate, or discuss ideas.
