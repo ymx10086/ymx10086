@@ -39,12 +39,6 @@ Network Security · LLM Security · Malicious/Encrypted Traffic · Secure AI · 
 
 ---
 
-## 🧰 Tech Stack 
-- **Languages**: C/C++, Python, TypeScript, Shell
-- **Topics**: Network Security, ML/DL, Systems, LLM Security
-
----
-
 ## 📨 Contact 
 - GitHub: https://github.com/ymx10086
 - Homepage: https://ymx10086.github.io/
