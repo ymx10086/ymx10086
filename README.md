@@ -22,7 +22,7 @@ Network Security · LLM Security · Malicious/Encrypted Traffic · Secure AI
 
 ---
 
-## 👋 About Me | 关于我
+## 👋 About Me 
 
 - 🎓 Computer Science & Technology student (Beijing)
 - 🔐 Focus: **Network & Security + Large Language Models (LLMs)**
@@ -32,25 +32,29 @@ Network Security · LLM Security · Malicious/Encrypted Traffic · Secure AI
   - **Network security**: malicious traffic detection, encrypted traffic classification, website fingerprinting
   - **Code security**: LLM-based vulnerability detection & secure coding
 
-> 我可能回复较慢，但欢迎交流合作 / 讨论想法 🤝
+<!-- > 我可能回复较慢，但欢迎交流合作 / 讨论想法 🤝 -->
+> I may be slow to respond, but welcome to connect, collaborate, or discuss ideas.
 
 ---
 
-## 🧰 Tech Stack | 技术栈（常用）
+## 🧰 Tech Stack 
 - **Languages**: C/C++, Python, TypeScript, Shell
 - **Topics**: Network Security, ML/DL, Systems, LLM Security
 
 ---
 
-## 📨 Contact | 联系方式
+## 📨 Contact 
 - GitHub: https://github.com/ymx10086
 - Homepage: https://ymx10086.github.io/
-- QQ: 1411477833
 - Email: mxyang25@stu.pku.edu.cn
 
 <!--
 Optional: Recent activity section (auto-updated by GitHub Actions)
 -->
 ## 🕒 Recent Activity
+
+- 🎓 Currently pursuing a **PhD degree**, with a focus on AI and security-related research.
+- 🚀 Actively exploring **AI entrepreneurship**, interested in turning research ideas into real-world products and startups.
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
