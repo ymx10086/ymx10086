@@ -23,13 +23,6 @@ Tip: keep it concise; pin the most representative repos on your profile page too
 ## 👋 About Me 
 
 - 🎓 Computer Science & Technology student (Beijing)
-- 🔐 Focus: **Network & Security + Large Language Models (LLMs)**
-- 🧠 Interested in:
-  - **LLM security**: jailbreak / alignment, privacy & security risks
-  - **Secure learning**: federated / split learning settings for LLMs
-  - **Network security**: malicious traffic detection, encrypted traffic classification, website fingerprinting
-  - **Code security**: LLM-based vulnerability detection & secure coding
-  - **AI Agent**: Production-ready AI agents
 
 <!-- > 我可能回复较慢，但欢迎交流合作 / 讨论想法 🤝 -->
 > I may be slow to respond, but welcome to connect, collaborate, or discuss ideas.
@@ -37,7 +30,6 @@ Tip: keep it concise; pin the most representative repos on your profile page too
 ---
 
 ## 📨 Contact 
-- GitHub: https://github.com/ymx10086
 - Homepage: https://ymx10086.github.io/
 - Email: mxyang25@stu.pku.edu.cn
 
