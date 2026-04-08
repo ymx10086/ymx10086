@@ -5,8 +5,6 @@ Tip: keep it concise; pin the most representative repos on your profile page too
 
 <div align="center">
 
-# Mingxin Yang (ymx10086)
-
 <img src="./assets/profile-dynamic.svg" alt="CS @ Peking University · Beijing. Network Security, LLM Security, Malicious/Encrypted Traffic, Secure AI, AI Agent." />
 
 [Homepage](https://ymx10086.github.io/) ·
