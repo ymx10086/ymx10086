@@ -18,7 +18,7 @@ Tip: keep it concise; pin the most representative repos on your profile page too
 
 </div>
 
----
+<!-- ---
 
 ## 👋 About Me 
 
@@ -27,11 +27,11 @@ Tip: keep it concise; pin the most representative repos on your profile page too
 <!-- > 我可能回复较慢，但欢迎交流合作 / 讨论想法 🤝 -->
 > I may be slow to respond, but welcome to connect, collaborate, or discuss ideas.
 
----
-
+--- -->
+<!-- 
 ## 📨 Contact 
 - Homepage: https://ymx10086.github.io/
-- Email: mxyang25@stu.pku.edu.cn
+- Email: mxyang25@stu.pku.edu.cn -->
 
 <!--
 Optional: Recent activity section (auto-updated by GitHub Actions)
